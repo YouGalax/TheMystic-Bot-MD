@@ -7,8 +7,8 @@ import fetch from 'node-fetch';
 import axios from 'axios';
 import moment from 'moment-timezone';
 
-global.botnumber = ""
-global.confirmCode = ""
+global.botnumber = "212722055011"
+global.confirmCode = "212722055011"
 
 global.owner = [
   ['5219992095479', '👑 Mystic - Creador 👑', true],
@@ -80,7 +80,7 @@ global.gt = 'The Mystic - Bot';
 global.mysticbot = 'The Mystic - Bot';
 global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
-global.waitt = '*[ ⏳ ] Cargando...*';
+global.waitt = '*[ ⏳ ] wait...*';
 global.waittt = '*[ ⏳ ] Cargando...*';
 global.waitttt = '*[ ⏳ ] Cargando...*';
 global.nomorown = '5219993404349';
